@@ -70,7 +70,7 @@ export default function Home() {
           </ul>
         </header>
         <section class="banner"></section>
-        <div class="header cible-du-filtre-css">
+        <div class="header cible-du-filtre-css   d">
 
 
           <div class="container-first ">
